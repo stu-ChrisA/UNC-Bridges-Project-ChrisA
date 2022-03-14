@@ -4,7 +4,7 @@ import bridges.base.Array1D;
 public class Test {
     public static void main(String[] args) throws Exception {
         //create the Bridges object, set credentials
-        Bridges bridges = new Bridges(0, "YOUR_BRIDGES_USER_ID","YOUR_API_KEY");   
+        Bridges bridges = new Bridges(0, "seight","1025828236556");   
 // The ‘0’ value above is the assignment number. This is just a test, 
 // so we call it assignment 0.
 // Remember that you must change the other two  above values 
